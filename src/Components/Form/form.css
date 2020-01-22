@@ -1,0 +1,123 @@
+h1 {
+    text-align: center;
+    position: inherit;
+    top: 50%;
+    left: 50%;
+    color:#b4b8ab;
+  }
+
+#menuplayascont{
+  display: grid; 
+  /* margin-right: 10vw; */
+  justify-items: start;
+  align-items: start;
+
+  color: white;
+  background-color: white;
+}
+#menuplaya{
+  display: grid; 
+  justify-items: start;
+  align-items: start;
+  color: white;
+  margin-right: 7vw;
+  margin-left: 0.5em;
+  /* background-color: white; */
+}
+
+
+
+ #playaselect{
+   width: 50px;
+ } 
+
+ .MuiOutlinedInput-inputSelect {
+  padding-right: 64px;
+}
+.MuiSelect-select{
+  min-width: 5em !important;
+}
+.MuiSelect-selectMenu
+{
+    height: auto;
+
+    white-space: nowrap;
+    text-overflow: ellipsis;
+    background: white;
+    background-color: white;
+}
+
+#formContainer{
+    background-color: #4595764d;
+    width: 90vw;
+    height: 100% ;
+    padding: 10px; 
+    margin: 5%;
+    border-radius: 8px; 
+    box-sizing: border-box; 
+    resize: vertical;
+    box-shadow: 1px 1px 3px black;
+}
+  
+/* #formPanel{ */
+    /* border-radius: 50px;  */
+    /* box-sizing: border-box;  */
+    /* resize: vertical; */
+    /* box-shadow: 1px 1px 3px black; */
+  /* } */
+
+
+
+
+
+
+.shift {
+    /* border-bottom: 10px, solid, black; */
+    border-radius: 10px;
+}
+
+.expansions {
+    /* border-bottom: 10px, solid, black; */
+    border-radius: 10px;
+}
+
+._observation {
+    border-bottom: 5px, solid, black;
+    border-radius: 10px;
+}
+
+._turtle {
+    border-bottom: 5px, solid, black;
+    border-radius: 10px;
+}
+
+._nest {
+    border-bottom: 5px, solid, black;
+    border-radius: 10px;
+  }
+  
+  #commentaries {
+  border-radius: 3px;
+  padding: 3vmax;
+  background-color: #ffff;
+  width: 36vmax;
+  margin-right: 3%;
+  /* background-color: #ffff; */
+}
+/* #shift{
+
+} */
+
+.MuiInputBase-input {
+  background-color: white;
+  /* width: 5em; */
+}
+/* #shift{
+  margin-left: 5em;
+  border-bottom: 10px, solid, black;
+  border-radius: 10px;
+} */
+
+/* .MuiExpansionPanel-rounded {
+  border-radius: 2em;
+} */

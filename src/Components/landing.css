@@ -1,0 +1,77 @@
+.landing-container {
+  display: flex;
+  justify-content: center;
+  flex-wrap: wrap;
+  padding-top: 50px;
+
+  
+}
+
+.individualCardLanding{
+  display: flex;
+  margin-top: 3vh;
+  padding: 3vh;
+  width: 230px;
+  background-color: '#000000';
+  opacity: 0.85;
+  text-decoration:none;
+ 
+}
+
+.landingButton {
+  padding-left: 8px;
+  padding-bottom: 8px;
+  text-decoration:none;
+}
+
+/* ----------------------- */
+/*.container {
+  margin-top: 3vh;
+  display: flex;
+  align-content: center;
+  justify-content: center;
+  flex-wrap: wrap;
+  background-size: 100%;
+  background-repeat: no-repeat
+}
+
+
+.button {
+  margin-top: 10%;
+  display: inherit;
+    padding: 2%;  
+    align-items: center;
+}
+
+.link {
+  background-color: #cfcfcf;
+  border: none;
+  color: black;
+  
+  text-align: center;
+  align-content: center;
+  justify-content: space-around;
+  justify-items: center;
+  align-self: center;
+  
+  opacity: 0.6;
+  transition: 0.3s;
+  display: inline;
+  
+  cursor: pointer;
+  height: 8vh;
+  width: 32vw;
+  border-radius: 10px;
+}
+
+.link:hover {opacity: 0.7;}
+
+.link:active {
+  background-color: #92c8d1;
+  transform: translateY(4px);
+}
+*/
+
+
+
+
